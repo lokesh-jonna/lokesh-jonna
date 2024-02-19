@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="150" src="https://github.com/lokesh-jonna/images/blob/main/profile.jpg"  />
+  <img height="250" width="250"src="https://github.com/lokesh-jonna/images/blob/main/profile.jpg"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://linkedin.com/in/j-lokesh/message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
