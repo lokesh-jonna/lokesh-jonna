@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name]! 👋
 
-![Profile Image](link_to_your_image)
+![Profile Image](https://github.com/lokesh-jonna/images/blob/main/profile.jpg)
 
 ## About Me
 I'm an enthusiastic and dedicated software developer passionate about crafting efficient and user-friendly solutions. With [X] years of experience in [specific languages or technologies], I thrive in collaborative environments where innovation and creativity are valued.
