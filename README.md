@@ -40,7 +40,7 @@
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
     <img width="12"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" height="40" alt="html"/>
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vonbu&psig=AOvVaw1bdZ2Uv1gvwbA3Cmuq3q4d&ust=1708403013465000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCx_ajHtoQDFQAAAAAdAAAAABAE)" height="40" alt="html"/>
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" height="40" alt="css"/>
     <img width="12"/>
