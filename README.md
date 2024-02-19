@@ -40,7 +40,7 @@
     <img width="12"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
     <img width="12"/>
-    <img src="" height="40" alt="html"/>
+    <img src="https://github.com/lokesh-jonna/images/blob/main/htmlnew.png" height="40" alt="html"/>
     <img width="12"/>
     <img src="https://github.com/lokesh-jonna/images/blob/main/css.png" height="40" alt="css"/>
     <img width="12"/>
@@ -65,10 +65,11 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://linkedin.com/in/j-lokesh/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+ <a href="https://twitter.com/jlokesh_/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+<a href="https://leetcode.com/j-lokesh/"><img src="https://github.com/lokesh-jonna/images/blob/main/leet.png" alt="leetcode" width="52" height="40" /></a>
+  
 </div>
 </div>
 
