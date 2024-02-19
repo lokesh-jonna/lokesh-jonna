@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Lokesh Jonna! 👋
 
 ![Profile Image](https://github.com/lokesh-jonna/images/blob/main/profile.jpg)
 
@@ -9,20 +9,6 @@ I'm an enthusiastic and dedicated software developer passionate about crafting e
 - **Languages:** [List of programming languages]
 - **Technologies:** [List of technologies and tools]
 - **Areas of Expertise:** [Specific areas where you excel]
-
-## Projects
-Here are some noteworthy projects I've worked on:
-- [Project 1](Link)
-- [Project 2](Link)
-- [Project 3](Link)
-
-## Experience
-- [Previous Job/Internship Title] at [Company/Organization], [Year]
-  Description: [Brief description of your role and responsibilities]
-
-## Education
-- [Degree], [University/Institution], [Year]
-  Description: [Optional brief description of your academic achievements or projects]
 
 ## Get in Touch
 - LinkedIn: [Your LinkedIn Profile URL] ![LinkedIn Icon](link_to_linkedin_icon)
