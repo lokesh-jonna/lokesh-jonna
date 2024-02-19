@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Lokesh Jonna from Anantapur<br><br>- 🔭 I’m a final year studnet pursuing Bachelors of Technology(CSE<br>- ⚡ In my free time I read novels, play sports</p>
 
 ###
 
