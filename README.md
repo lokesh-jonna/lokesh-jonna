@@ -57,7 +57,7 @@
     
 </div>
 
-## Wanna know more : [Tap me](https://drive.google.com/file/d/1odozdXW_YmcJy49m9Zg6kaVK7B3NQUJp/view?usp=sharing)
+## Wanna know more : [Tap me for Resume](https://drive.google.com/file/d/1odozdXW_YmcJy49m9Zg6kaVK7B3NQUJp/view?usp=sharing)
 
 ###
 
@@ -75,6 +75,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-jonna&show_icons=true&locale=en" alt="lokesh-jonna" /></p>
 </div>
 
+### Let's Connect:
 <div align="left">
   <a href="https://linkedin.com/in/j-lokesh/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
