@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey visitor 👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Lokesh Jonna from Anantapur<br><br>- 🔭 I’m pursuing my final year in Bachelors of Technology (CSE).<br>- ⚡ In my free time I read novels, play sports and binge watch</p>
+<p align="left">I'm Lokesh Jonna from India<br><br>- 🔭 I’m pursuing my final year in Bachelors of Technology (CSE).<br>- ⚡ In my free time I read novels, play sports and binge watch</p>
 
 ###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh-jonna" alt="lokesh-jonna" /></a> </p>
@@ -57,19 +57,23 @@
     
 </div>
 
+## Wanna know more : [https://drive.google.com/file/d/1odozdXW_YmcJy49m9Zg6kaVK7B3NQUJp/view?usp=sharing] tap
+
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥STATS :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lokesh-jonna&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh-jonna&show_icons=true&locale=en&layout=compact" alt="lokesh-jonna" /></p>
-
+</div>
+<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-jonna&show_icons=true&locale=en" alt="lokesh-jonna" /></p>
-
+</div>
 ###
 
 <div align="left">
