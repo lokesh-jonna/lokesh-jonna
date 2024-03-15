@@ -57,7 +57,7 @@
     
 </div>
 
-## Wanna know more : [https://drive.google.com/file/d/1odozdXW_YmcJy49m9Zg6kaVK7B3NQUJp/view?usp=sharing] tap
+## Wanna know more : [https://drive.google.com/file/d/1odozdXW_YmcJy49m9Zg6kaVK7B3NQUJp/view?usp=sharing](https://drive.google.com/file/d/1odozdXW_YmcJy49m9Zg6kaVK7B3NQUJp/view?usp=sharing)
 
 ###
 
@@ -74,7 +74,6 @@
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokesh-jonna&show_icons=true&locale=en" alt="lokesh-jonna" /></p>
 </div>
-###
 
 <div align="left">
   <a href="https://linkedin.com/in/j-lokesh/">
@@ -84,5 +83,3 @@
   
 </div>
 </div>
-
-###
