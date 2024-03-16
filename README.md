@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://github.com/lokesh-jonna/images/blob/main/sql.png" height="40" alt="sql"  />
   <img width="12" />
-    <img src="https://github.com/lokesh-jonna/images/blob/main/Nosql.png" height="40" alt="nosql"  />
+    <img src="https://imgur.com/q5SghdX" height="40" alt="nosql"  />
   <img width="12" />
     
 </div>
