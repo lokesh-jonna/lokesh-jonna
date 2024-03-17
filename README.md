@@ -1,5 +1,5 @@
-<div class="profile" align="center" height="200" width="200">
-  ![profile](https://github.com/lokesh-jonna/lokesh-jonna/assets/112635320/19ad771b-3c72-4170-8edf-08342b76724b)
+<div align="center">
+  <img src="https://github.com/lokesh-jonna/lokesh-jonna/raw/main/assets/112635320/19ad771b-3c72-4170-8edf-08342b76724b" alt="profile" style="height:200px; width:200px;">
 </div>
 
 ###
