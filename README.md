@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="Profile" width="400" height="400" >
+<center><img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="Profile" width="400" height="400" ></center>
 <h1 align="center">Hey 👋, I'm Lokesh Jonna</h1>
 <h3 align="center">A passionate developer from India</h3>
 <div align="center">
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jonna.lokesh1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1odozdXW_YmcJy49m9Zg6kaVK7B3NQUJp/view?usp=sharing](https://drive.google.com/file/d/1odozdXW_YmcJy49m9Zg6kaVK7B3NQUJp/view?usp=sharing)<br>
+- 📄 Know about my experiences [Visit](https://drive.google.com/file/d/1odozdXW_YmcJy49m9Zg6kaVK7B3NQUJp/view?usp=sharing)<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
