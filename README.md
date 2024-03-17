@@ -1,8 +1,4 @@
-<div align="center">
-
-</div>
-![profile](https://github.com/lokesh-jonna/lokesh-jonna/assets/112635320/ef52c8b2-3d1d-4b6c-9106-c4ac0a4fd025)
-
+![profile](https://github.com/lokesh-jonna/lokesh-jonna/assets/112635320/19ad771b-3c72-4170-8edf-08342b76724b)
 
 ###
 
