@@ -1,7 +1,9 @@
 <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="Profile">
 <h1 align="center">Hey 👋, I'm Lokesh Jonna</h1>
 <h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-jonna&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-jonna" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lokesh-jonna.lokesh-jonna&"  />
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh-jonna" alt="lokesh-jonna" /></a> </p>
 
