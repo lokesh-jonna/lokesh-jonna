@@ -1,7 +1,6 @@
-[[!MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)]
+<img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="Profile">
 <h1 align="center">Hey 👋, I'm Lokesh Jonna</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-jonna&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-jonna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh-jonna" alt="lokesh-jonna" /></a> </p>
