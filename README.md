@@ -1,4 +1,4 @@
-<div align="center"<img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="Profile" width="400" height="400" ></div>
+<div align="center"><img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="Profile" width="400" height="400" ></div>
 <h1 align="center">Hey 👋, I'm Lokesh Jonna</h1>
 <h3 align="center">A passionate developer from India</h3>
 <div align="center">
